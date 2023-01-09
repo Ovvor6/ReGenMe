@@ -23,7 +23,7 @@ let questions = [
     {
      type: "input",
      name: "reasoning",
-     message: "What did you learn from your project?",
+     message: "Why did you build this project?",
      validate: validateInput
     },
     {
