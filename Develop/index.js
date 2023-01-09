@@ -119,7 +119,7 @@ let questions = [
     {
      type: "input",
      name: "github",
-     message: "Provide your GitHub user name: ",
+     message: "Provide your GitHub user name (ex: Ovvor6): ",
      validate: validateInput
     }
 
