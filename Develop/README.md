@@ -19,9 +19,11 @@
 
   ## Installation
   Go to specific file in terminal and run “node index.js”, then the program will ask series of questions
+  ### Video Recording
+  https://drive.google.com/file/d/114nna78y_tztRS4vvUMjL0ubb8-0ERQI/view?usp=sharing
 
   ## Usage
-  ![Terminal](T_S_ReGenMe.png) ![README](ReGenMe_README.png)
+   ![Terminal](T_S_ReGenMe.png) ![README](ReGenMe_README.png)
 
   ## Credits 
   None
